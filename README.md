@@ -1,2 +1,2 @@
 # principles-of-data-science
-This file 
+This folder contains files of class projects completed in Data 100
