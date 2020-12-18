@@ -2,7 +2,7 @@
 Data Science Projects Completed at UC Berkeley (Fall 2017-Spring 2021)
 
 
-Larger scale projects:
+Larger scale projects: 
 
 Food Safety
 Predicting Taxi Ride Duration
