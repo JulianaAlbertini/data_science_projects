@@ -1,4 +1,4 @@
 # projects
-Course Projects - Data Science Curriculum at UC Berkeley (Fall 2017-Spring 2021)
+Projects Completed in Data Science Curriculum at UC Berkeley (Fall 2017-Spring 2021)
 
  
