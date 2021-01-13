@@ -1,4 +1,4 @@
-# projects
+# data_science_projects
 Data Science Projects Completed at UC Berkeley (Fall 2017-Spring 2021)
 
 
