@@ -9,4 +9,5 @@ Find what features maximize the profitability of a host’s listing and how a ho
 # Data:
 All data used in this project was gathered from Inside AirBnB: http://insideairbnb.com/get-the-data.html
 
-# *Included in this folder: Data Preprocessing & EDA for NYC Airbnb Listings
+# Included in this folder: 
+Data Preprocessing & EDA for NYC Airbnb Listings
